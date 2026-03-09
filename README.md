@@ -30,7 +30,8 @@ python chatbot.py
 
 
 
-\## Author
+Author
 
-Your Name
+Rajnish Patel
+
 
